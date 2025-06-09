@@ -1,6 +1,6 @@
-# dice_roller
+# Meals App
 
-A new Flutter project for Learn the fundamentals of Flutter basics.
+A new Flutter project for Learn the fundamentals of Flutter State Management and Riverpod(Provider).
 
 ![image](https://github.com/user-attachments/assets/5b461ffd-a7ee-4e17-9ae7-c04371438633)
 ![image](https://github.com/user-attachments/assets/981f1be1-95d7-406d-a23a-6cdfbbd76fd9)
