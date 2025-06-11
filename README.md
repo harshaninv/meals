@@ -2,9 +2,9 @@
 
 A new Flutter project for Learn the fundamentals of Flutter State Management and Riverpod(Provider).
 
-![image](https://github.com/user-attachments/assets/5b461ffd-a7ee-4e17-9ae7-c04371438633)
-![image](https://github.com/user-attachments/assets/981f1be1-95d7-406d-a23a-6cdfbbd76fd9)
-![image](https://github.com/user-attachments/assets/7d0ab847-de9d-42cb-bfca-728dc927f7ba)
+![image](https://github.com/user-attachments/assets/3b1b32d9-dc52-47c0-88fa-79ffb912c1c2)
+![image](https://github.com/user-attachments/assets/8c930afa-aa01-49b9-aa65-3dcc4a650816)
+![image](https://github.com/user-attachments/assets/74cca0ee-cd79-4f00-a3c9-946edafceabc)
 
 Udemy Tutorial - A Complete Guide to the Flutter SDK & Flutter Framework for building native iOS and Android apps[2025 Edition]
 
